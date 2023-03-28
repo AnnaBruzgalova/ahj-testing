@@ -1,3 +1,5 @@
+/* eslint-disable eol-last */
+
 import InnFormWidget from './widget';
 
 const container = document.querySelector('.container');
